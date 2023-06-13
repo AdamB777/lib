@@ -1,0 +1,1 @@
+C:\Users\metal\OneDrive\Pulpit\mobilne_proj\api\libraryMobileApp\LibraryMobile\LibraryMobile.UWP\LibraryMobile.UWP.csproj;x64
